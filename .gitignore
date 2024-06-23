@@ -145,5 +145,5 @@ dmypy.json
 #IDE
 .vscode
 major project.code-workspace
-
+.idea/
 # End of https://www.gitignore.io/api/django
